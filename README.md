@@ -16,12 +16,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](images\screenshot.png)
+<img src="images\screenshot.png">
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/qr-code-component-solution-using-flexbox-s1RXPgIVAJ)
+- Live Site URL: (https://unkookerinho.github.io/QR-code-component-solution/)
 
 ## My process
 
